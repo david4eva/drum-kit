@@ -38,7 +38,7 @@ Welcome to the Drum Kit website! This web application allows you to play drums u
 </ul>
 
 ### Areas to Contribute:
-### Site Enhancements:
+### Enhancements:
 <ul>
     <li>Implement functionality for multi-player support.</li>
     <li>Bug Fixes: Help identify and fix any bugs or issues you discover.</li>

@@ -9,7 +9,7 @@ Welcome to the Drum Kit website! This web application allows you to play drums u
 - [Built With](#built-with)
 - [Contributing](#contributing)
 - [Getting Started](#getting-started)
-- [Gameplay Enhancements](#gameplay-enhancements)
+- [Enhancements](#enhancements)
 
 ## Key Features
 - Play drums with your keyboard keys (corresponding to different drum sounds).

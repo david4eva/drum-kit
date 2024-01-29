@@ -17,7 +17,7 @@ Welcome to the Drum Kit website! This web application allows you to play drums u
 - Responsive design, compatible with various screen sizes.
 
 ## Play the game
-- You can try out the Drum Kit website by visiting [DrumKitWebsite.com]([https://play-drum-kit-now.netlify.app/]).
+- You can try out the Drum Kit website by visiting [Drum Kit](https://play-drum-kit-now.netlify.app/).
 
 ## Built With
 <ul>

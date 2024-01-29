@@ -48,10 +48,10 @@ Welcome to the Drum Kit website! This web application allows you to play drums u
 ### Areas to Contribute:
 ### Enhancements:
 <ul>
-    <li>Implement functionality for multi-player support.</li>
+    <li>Implement functionality for more instruments.</li>
     <li>Bug Fixes: Help identify and fix any bugs or issues you discover.</li>
     <li>Documentation: Contribute to improving our README or adding documentation where needed.</li>
-    <li>Feedback: Share your feedback, suggestions, or ideas to help us make the game even better.</li>
+    <li>Feedback: Share your feedback, suggestions, or ideas to help us improve Drum Kit.</li>
 </ul>
 
 Thank you for your contributions! 🥁🪘

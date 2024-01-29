@@ -19,6 +19,14 @@ Welcome to the Drum Kit website! This web application allows you to play drums u
 ## Play the game
 - You can try out the Drum Kit website by visiting [Drum Kit](https://play-drum-kit-now.netlify.app/).
 
+    ### Using the Mouse
+    1. Open the Drum Kit website in your browser.
+    2. Click on the drum images with your mouse to trigger different drum sounds.
+ 
+    ### Using the Keyboard
+    1. Open the Drum Kit website in your browser.
+    2. Press the corresponding keys on your keyboard to play different drum sounds:
+
 ## Built With
 <ul>
     <li>HTML</li>
